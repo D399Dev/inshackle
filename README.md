@@ -1,8 +1,8 @@
-### This Program Create By @xd_20111 Just Edit By Me :D
+### This Code By @thelinuxchoice Just Edit By Me :D
 
 ### Features:
 #### Unfollow Tracker
-#### Increase Followers
+#### Increase Folloers
 #### Download: Stories, Saved Content, Following/followers list, Profile Info
 #### Unfollow all your following
 
