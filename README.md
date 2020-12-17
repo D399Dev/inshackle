@@ -10,7 +10,7 @@
 
 ## Use the program :
 ```
-git clone https://github.com/VajpDev/InstaBot
+git clone https://github.com/VajpDev/inshackle
 cd inshackle
 chmod +x inshackle
 bash inshackle.sh
