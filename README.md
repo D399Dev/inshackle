@@ -12,6 +12,6 @@
 ```
 git clone https://github.com/VajpDev/inshackle
 cd inshackle
-chmod +x inshackle
+chmod +x inshackle.sh
 bash inshackle.sh
 ```
